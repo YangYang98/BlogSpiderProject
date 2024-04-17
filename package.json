@@ -8,7 +8,7 @@
     "start": "node server.js"
   },
   "repository": {
-    "type": "gti",
+    "type": "git",
     "url": "https://github.com/YangYang98/BlogSpiderProject"
   },
   "keywords": [],
